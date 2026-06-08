@@ -1,1 +1,0 @@
-# GoogleTVRemote-iOS
